@@ -1,0 +1,21 @@
+{
+  "name": "synctimetable",
+  "version": "1.0.0",
+  "description": "sync with timetable tsu",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "mern",
+    "react"
+  ],
+  "author": "Ivan Plotnikov <ivan@oshey.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.4",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+  }
+}
